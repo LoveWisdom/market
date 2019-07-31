@@ -2,9 +2,11 @@
 #include<stdlib.h>
 #include<string.h>
 
-#define MAX 9
-#define pip
+#define INT MAX
+#define pipe 
 int main(){
+	int skr= 10086;
+
 	char string[];
 	string.getchar();
 	for(int i=0;i<=5;i++){
